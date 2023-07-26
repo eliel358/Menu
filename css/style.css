@@ -1,0 +1,52 @@
+body{
+    background-color: blueviolet;
+    font-family: monospace;
+    color: black;
+}
+h1{
+    text-align: center;
+    font-size: 2em;
+    padding: 0.5em;
+    background-color: white;
+    border-bottom: 1px solid black;
+}
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+.post{
+    background-color: white;
+    padding: 1em;
+    font-size: 3em;
+    text-align: center;
+    width: 100%;
+    margin: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    flex-direction: column;
+    max-width: 60%;
+    box-shadow: -10px 15px 10px 2px black;
+    align-items: center;
+}
+button{
+    font-size: 0.5em;
+    background-color:white;
+    font-family: monospace;
+    border: none;
+    width: 8em;
+    height: 3em;
+}
+p{
+    margin: 1em;
+}
+.botoes{
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+}
