@@ -31,10 +31,10 @@ function create_post(post_name,site,code){
 
 }
 create_post('Pedra Papel Tesoura','https://eliel358.github.io/Pedra-papel-tesoura/','https://github.com/eliel358/Pedra-papel-tesoura')
-create_post('To do List','https://eliel358.github.io/To-do-list/','https://github.com/eliel358/To-do-list')
-create_post('Speech Recognition','https://github.com/eliel358/Speech-recognition-e-synthesis','https://github.com/eliel358/Speech-recognition-e-synthesis')
+create_post('Lista de Tarefas','https://eliel358.github.io/To-do-list/','https://github.com/eliel358/To-do-list')
+create_post('Reconhecimento de voz','https://github.com/eliel358/Speech-recognition-e-synthesis','https://github.com/eliel358/Speech-recognition-e-synthesis')
 create_post('Calculadora','https://eliel358.github.io/Calculadora/','https://github.com/eliel358/Calculadora')
-create_post('Counter','https://eliel358.github.io/Counter/','https://github.com/eliel358/Counter')
+create_post('Contador','https://eliel358.github.io/Counter/','https://github.com/eliel358/Counter')
 create_post('Relogio Digital','https://eliel358.github.io/Relogio-digital/','https://github.com/eliel358/Relogio-digital')
 create_post('Calculadora de Massa Corporal','https://eliel358.github.io/Calculadora-de-massa-corporal/','https://github.com/eliel358/Calculadora-de-massa-corporal')
 
