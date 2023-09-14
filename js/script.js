@@ -37,28 +37,4 @@ create_post('Calculadora','https://eliel358.github.io/Calculadora/','https://git
 create_post('Contador','https://eliel358.github.io/Counter/','https://github.com/eliel358/Counter')
 create_post('Relogio Digital','https://eliel358.github.io/Relogio-digital/','https://github.com/eliel358/Relogio-digital')
 create_post('Calculadora de Massa Corporal','https://eliel358.github.io/Calculadora-de-massa-corporal/','https://github.com/eliel358/Calculadora-de-massa-corporal')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+create_post('Tradutor','https://github.com/eliel358/Tradutor-python','https://github.com/eliel358/Tradutor-python')
